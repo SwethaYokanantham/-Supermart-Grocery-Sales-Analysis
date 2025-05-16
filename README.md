@@ -101,10 +101,7 @@ This project explores sales patterns, profit margins, and category-based perform
 
     Are there outliers or inefficiencies in the sales pipeline?
 
-📜 License
+### 🙏 Dataset Credit
 
-This project is open-source and free to use. Attribution appreciated 😊
-🤍 Author
+The dataset used in this project was sourced from Unified Mentor.
 
-Swetha Yokanantham
-Aspiring Data Analyst | Python & SQL Enthusiast
