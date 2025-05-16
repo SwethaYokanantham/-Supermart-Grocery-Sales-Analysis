@@ -1,4 +1,4 @@
-# -Supermart-Grocery-Sales-Analysis
+# Supermart-Grocery-Sales-Analysis
 A detailed data analysis project on Supermart Grocery Sales using Python. 
 This project explores sales patterns, profit margins, and category-based performance with a series of visual insights to support business decision-making.
 
